@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Final_exercisio_grading\Final_exercisio_grading\bin\Debug\net8.0\Final_exercisio_grading.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Final_exercisio_grading\Final_exercisio_grading\bin\Debug\net8.0\Final_exercisio_grading.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Final_exercisio_grading\Final_exercisio_grading\bin\Debug\net8.0\Final_exercisio_grading.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Final_exercisio_grading\Final_exercisio_grading\bin\Debug\net8.0\Final_exercisio_grading.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Final_exercisio_grading\Final_exercisio_grading\bin\Debug\net8.0\Final_exercisio_grading.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Final_exercisio_grading\Final_exercisio_grading\obj\Debug\net8.0\Final_exercisio_grading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Final_exercisio_grading\Final_exercisio_grading\obj\Debug\net8.0\Final_exercisio_grading.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Final_exercisio_grading\Final_exercisio_grading\obj\Debug\net8.0\Final_exercisio_grading.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Final_exercisio_grading\Final_exercisio_grading\obj\Debug\net8.0\Final_exercisio_grading.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Final_exercisio_grading\Final_exercisio_grading\obj\Debug\net8.0\Final_exercisio_grading.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Final_exercisio_grading\Final_exercisio_grading\obj\Debug\net8.0\refint\Final_exercisio_grading.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Final_exercisio_grading\Final_exercisio_grading\obj\Debug\net8.0\Final_exercisio_grading.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Final_exercisio_grading\Final_exercisio_grading\obj\Debug\net8.0\Final_exercisio_grading.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Final_exercisio_grading\Final_exercisio_grading\obj\Debug\net8.0\ref\Final_exercisio_grading.dll

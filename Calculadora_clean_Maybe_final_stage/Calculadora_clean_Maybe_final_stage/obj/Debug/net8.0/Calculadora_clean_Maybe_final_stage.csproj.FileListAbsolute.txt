@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calculadora_clean_Maybe_final_stage\Calculadora_clean_Maybe_final_stage\obj\Debug\net8.0\Calculadora_clean_Maybe_final_stage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calculadora_clean_Maybe_final_stage\Calculadora_clean_Maybe_final_stage\obj\Debug\net8.0\Calculadora_clean_Maybe_final_stage.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calculadora_clean_Maybe_final_stage\Calculadora_clean_Maybe_final_stage\obj\Debug\net8.0\Calculadora_clean_Maybe_final_stage.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calculadora_clean_Maybe_final_stage\Calculadora_clean_Maybe_final_stage\obj\Debug\net8.0\Calculadora_clean_Maybe_final_stage.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calculadora_clean_Maybe_final_stage\Calculadora_clean_Maybe_final_stage\bin\Debug\net8.0\Calculadora_clean_Maybe_final_stage.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calculadora_clean_Maybe_final_stage\Calculadora_clean_Maybe_final_stage\bin\Debug\net8.0\Calculadora_clean_Maybe_final_stage.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calculadora_clean_Maybe_final_stage\Calculadora_clean_Maybe_final_stage\bin\Debug\net8.0\Calculadora_clean_Maybe_final_stage.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calculadora_clean_Maybe_final_stage\Calculadora_clean_Maybe_final_stage\bin\Debug\net8.0\Calculadora_clean_Maybe_final_stage.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calculadora_clean_Maybe_final_stage\Calculadora_clean_Maybe_final_stage\bin\Debug\net8.0\Calculadora_clean_Maybe_final_stage.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calculadora_clean_Maybe_final_stage\Calculadora_clean_Maybe_final_stage\obj\Debug\net8.0\Calculadora_clean_Maybe_final_stage.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calculadora_clean_Maybe_final_stage\Calculadora_clean_Maybe_final_stage\obj\Debug\net8.0\refint\Calculadora_clean_Maybe_final_stage.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calculadora_clean_Maybe_final_stage\Calculadora_clean_Maybe_final_stage\obj\Debug\net8.0\Calculadora_clean_Maybe_final_stage.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calculadora_clean_Maybe_final_stage\Calculadora_clean_Maybe_final_stage\obj\Debug\net8.0\Calculadora_clean_Maybe_final_stage.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calculadora_clean_Maybe_final_stage\Calculadora_clean_Maybe_final_stage\obj\Debug\net8.0\ref\Calculadora_clean_Maybe_final_stage.dll

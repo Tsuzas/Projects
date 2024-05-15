@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial_again_nocheats\Factorial_again_nocheats\obj\Debug\net8.0\Factorial_again_nocheats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial_again_nocheats\Factorial_again_nocheats\obj\Debug\net8.0\Factorial_again_nocheats.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial_again_nocheats\Factorial_again_nocheats\obj\Debug\net8.0\Factorial_again_nocheats.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial_again_nocheats\Factorial_again_nocheats\obj\Debug\net8.0\Factorial_again_nocheats.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial_again_nocheats\Factorial_again_nocheats\bin\Debug\net8.0\Factorial_again_nocheats.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial_again_nocheats\Factorial_again_nocheats\bin\Debug\net8.0\Factorial_again_nocheats.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial_again_nocheats\Factorial_again_nocheats\bin\Debug\net8.0\Factorial_again_nocheats.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial_again_nocheats\Factorial_again_nocheats\bin\Debug\net8.0\Factorial_again_nocheats.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial_again_nocheats\Factorial_again_nocheats\bin\Debug\net8.0\Factorial_again_nocheats.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial_again_nocheats\Factorial_again_nocheats\obj\Debug\net8.0\Factorial_again_nocheats.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial_again_nocheats\Factorial_again_nocheats\obj\Debug\net8.0\refint\Factorial_again_nocheats.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial_again_nocheats\Factorial_again_nocheats\obj\Debug\net8.0\Factorial_again_nocheats.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial_again_nocheats\Factorial_again_nocheats\obj\Debug\net8.0\Factorial_again_nocheats.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial_again_nocheats\Factorial_again_nocheats\obj\Debug\net8.0\ref\Factorial_again_nocheats.dll

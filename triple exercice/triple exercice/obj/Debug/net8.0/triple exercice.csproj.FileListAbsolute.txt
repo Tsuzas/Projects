@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\triple exercice\triple exercice\bin\Debug\net8.0\triple exercice.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\triple exercice\triple exercice\bin\Debug\net8.0\triple exercice.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\triple exercice\triple exercice\bin\Debug\net8.0\triple exercice.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\triple exercice\triple exercice\bin\Debug\net8.0\triple exercice.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\triple exercice\triple exercice\bin\Debug\net8.0\triple exercice.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\triple exercice\triple exercice\obj\Debug\net8.0\triple exercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\triple exercice\triple exercice\obj\Debug\net8.0\triple exercice.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\triple exercice\triple exercice\obj\Debug\net8.0\triple exercice.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\triple exercice\triple exercice\obj\Debug\net8.0\triple exercice.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\triple exercice\triple exercice\obj\Debug\net8.0\triple exercice.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\triple exercice\triple exercice\obj\Debug\net8.0\refint\triple exercice.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\triple exercice\triple exercice\obj\Debug\net8.0\triple exercice.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\triple exercice\triple exercice\obj\Debug\net8.0\triple exercice.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\triple exercice\triple exercice\obj\Debug\net8.0\ref\triple exercice.dll

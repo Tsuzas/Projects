@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Decision_Logic_with_if's/1.0.0": {
+        "runtime": {
+          "Decision_Logic_with_if's.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decision_Logic_with_if's/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

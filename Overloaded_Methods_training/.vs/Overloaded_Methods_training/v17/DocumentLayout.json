@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Overloaded_Methods_training\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5858E3-2263-4AD6-9171-01E3E0C0AD90}|Overloaded_Methods_training\\Overloaded_Methods_training.csproj|c:\\users\\fpere\\onedrive\\ambiente de trabalho\\c#\\overloaded_methods_training\\overloaded_methods_training\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5858E3-2263-4AD6-9171-01E3E0C0AD90}|Overloaded_Methods_training\\Overloaded_Methods_training.csproj|solutionrelative:overloaded_methods_training\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Overloaded_Methods_training\\Overloaded_Methods_training\\Program.cs",
+              "RelativeDocumentMoniker": "Overloaded_Methods_training\\Program.cs",
+              "ToolTip": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Overloaded_Methods_training\\Overloaded_Methods_training\\Program.cs*",
+              "RelativeToolTip": "Overloaded_Methods_training\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T16:59:50.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

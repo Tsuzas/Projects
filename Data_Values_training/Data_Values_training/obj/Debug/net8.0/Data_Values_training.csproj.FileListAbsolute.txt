@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Data_Values_training\Data_Values_training\bin\Debug\net8.0\Data_Values_training.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Data_Values_training\Data_Values_training\bin\Debug\net8.0\Data_Values_training.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Data_Values_training\Data_Values_training\bin\Debug\net8.0\Data_Values_training.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Data_Values_training\Data_Values_training\bin\Debug\net8.0\Data_Values_training.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Data_Values_training\Data_Values_training\bin\Debug\net8.0\Data_Values_training.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Data_Values_training\Data_Values_training\obj\Debug\net8.0\Data_Values_training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Data_Values_training\Data_Values_training\obj\Debug\net8.0\Data_Values_training.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Data_Values_training\Data_Values_training\obj\Debug\net8.0\Data_Values_training.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Data_Values_training\Data_Values_training\obj\Debug\net8.0\Data_Values_training.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Data_Values_training\Data_Values_training\obj\Debug\net8.0\Data_Values_training.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Data_Values_training\Data_Values_training\obj\Debug\net8.0\refint\Data_Values_training.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Data_Values_training\Data_Values_training\obj\Debug\net8.0\Data_Values_training.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Data_Values_training\Data_Values_training\obj\Debug\net8.0\Data_Values_training.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Data_Values_training\Data_Values_training\obj\Debug\net8.0\ref\Data_Values_training.dll

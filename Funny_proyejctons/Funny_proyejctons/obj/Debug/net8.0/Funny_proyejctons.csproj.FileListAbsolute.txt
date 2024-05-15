@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Funny_proyejctons\Funny_proyejctons\obj\Debug\net8.0\Funny_proyejctons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Funny_proyejctons\Funny_proyejctons\obj\Debug\net8.0\Funny_proyejctons.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Funny_proyejctons\Funny_proyejctons\obj\Debug\net8.0\Funny_proyejctons.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Funny_proyejctons\Funny_proyejctons\obj\Debug\net8.0\Funny_proyejctons.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Funny_proyejctons\Funny_proyejctons\bin\Debug\net8.0\Funny_proyejctons.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Funny_proyejctons\Funny_proyejctons\bin\Debug\net8.0\Funny_proyejctons.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Funny_proyejctons\Funny_proyejctons\bin\Debug\net8.0\Funny_proyejctons.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Funny_proyejctons\Funny_proyejctons\bin\Debug\net8.0\Funny_proyejctons.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Funny_proyejctons\Funny_proyejctons\bin\Debug\net8.0\Funny_proyejctons.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Funny_proyejctons\Funny_proyejctons\obj\Debug\net8.0\Funny_proyejctons.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Funny_proyejctons\Funny_proyejctons\obj\Debug\net8.0\refint\Funny_proyejctons.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Funny_proyejctons\Funny_proyejctons\obj\Debug\net8.0\Funny_proyejctons.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Funny_proyejctons\Funny_proyejctons\obj\Debug\net8.0\Funny_proyejctons.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Funny_proyejctons\Funny_proyejctons\obj\Debug\net8.0\ref\Funny_proyejctons.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Equality_and_Inequality/1.0.0": {
+        "runtime": {
+          "Equality_and_Inequality.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Equality_and_Inequality/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

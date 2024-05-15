@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial\Factorial\bin\Debug\net8.0\Factorial.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial\Factorial\bin\Debug\net8.0\Factorial.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial\Factorial\bin\Debug\net8.0\Factorial.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial\Factorial\bin\Debug\net8.0\Factorial.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial\Factorial\bin\Debug\net8.0\Factorial.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial\Factorial\obj\Debug\net8.0\Factorial.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial\Factorial\obj\Debug\net8.0\refint\Factorial.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial\Factorial\obj\Debug\net8.0\Factorial.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial\Factorial\obj\Debug\net8.0\Factorial.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial\Factorial\obj\Debug\net8.0\ref\Factorial.dll

@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Decision_Logic_with_if's\Decision_Logic_with_if's\bin\Debug\net8.0\Decision_Logic_with_if's.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Decision_Logic_with_if's\Decision_Logic_with_if's\bin\Debug\net8.0\Decision_Logic_with_if's.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Decision_Logic_with_if's\Decision_Logic_with_if's\bin\Debug\net8.0\Decision_Logic_with_if's.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Decision_Logic_with_if's\Decision_Logic_with_if's\bin\Debug\net8.0\Decision_Logic_with_if's.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Decision_Logic_with_if's\Decision_Logic_with_if's\bin\Debug\net8.0\Decision_Logic_with_if's.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Decision_Logic_with_if's\Decision_Logic_with_if's\obj\Debug\net8.0\Decision_Logic_with_if's.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Decision_Logic_with_if's\Decision_Logic_with_if's\obj\Debug\net8.0\Decision_Logic_with_if's.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Decision_Logic_with_if's\Decision_Logic_with_if's\obj\Debug\net8.0\Decision_Logic_with_if's.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Decision_Logic_with_if's\Decision_Logic_with_if's\obj\Debug\net8.0\Decision_Logic_with_if's.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Decision_Logic_with_if's\Decision_Logic_with_if's\obj\Debug\net8.0\Decision_Logic_with_if's.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Decision_Logic_with_if's\Decision_Logic_with_if's\obj\Debug\net8.0\refint\Decision_Logic_with_if's.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Decision_Logic_with_if's\Decision_Logic_with_if's\obj\Debug\net8.0\Decision_Logic_with_if's.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Decision_Logic_with_if's\Decision_Logic_with_if's\obj\Debug\net8.0\Decision_Logic_with_if's.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Decision_Logic_with_if's\Decision_Logic_with_if's\obj\Debug\net8.0\ref\Decision_Logic_with_if's.dll

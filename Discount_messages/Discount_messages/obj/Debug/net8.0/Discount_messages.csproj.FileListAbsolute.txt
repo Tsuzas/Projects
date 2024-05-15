@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Discount_messages\Discount_messages\bin\Debug\net8.0\Discount_messages.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Discount_messages\Discount_messages\bin\Debug\net8.0\Discount_messages.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Discount_messages\Discount_messages\bin\Debug\net8.0\Discount_messages.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Discount_messages\Discount_messages\bin\Debug\net8.0\Discount_messages.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Discount_messages\Discount_messages\bin\Debug\net8.0\Discount_messages.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Discount_messages\Discount_messages\obj\Debug\net8.0\Discount_messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Discount_messages\Discount_messages\obj\Debug\net8.0\Discount_messages.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Discount_messages\Discount_messages\obj\Debug\net8.0\Discount_messages.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Discount_messages\Discount_messages\obj\Debug\net8.0\Discount_messages.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Discount_messages\Discount_messages\obj\Debug\net8.0\Discount_messages.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Discount_messages\Discount_messages\obj\Debug\net8.0\refint\Discount_messages.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Discount_messages\Discount_messages\obj\Debug\net8.0\Discount_messages.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Discount_messages\Discount_messages\obj\Debug\net8.0\Discount_messages.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Discount_messages\Discount_messages\obj\Debug\net8.0\ref\Discount_messages.dll

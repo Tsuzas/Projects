@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "triple exercice", "triple exercice\triple exercice.csproj", "{F85FDB19-0FDB-480B-A593-5EDAEC1C5093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F85FDB19-0FDB-480B-A593-5EDAEC1C5093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85FDB19-0FDB-480B-A593-5EDAEC1C5093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85FDB19-0FDB-480B-A593-5EDAEC1C5093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85FDB19-0FDB-480B-A593-5EDAEC1C5093}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DF47131-8C6C-4687-96BB-D0DBBCC42DDA}
+	EndGlobalSection
+EndGlobal

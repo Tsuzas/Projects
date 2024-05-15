@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Funny_proyejctons/1.0.0": {
+        "runtime": {
+          "Funny_proyejctons.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Funny_proyejctons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

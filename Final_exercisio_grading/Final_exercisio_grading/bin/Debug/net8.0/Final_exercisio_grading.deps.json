@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Final_exercisio_grading/1.0.0": {
+        "runtime": {
+          "Final_exercisio_grading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Final_exercisio_grading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

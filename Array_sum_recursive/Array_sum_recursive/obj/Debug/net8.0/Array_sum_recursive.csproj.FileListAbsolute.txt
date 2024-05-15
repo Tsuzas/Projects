@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Array_sum_recursive\Array_sum_recursive\obj\Debug\net8.0\Array_sum_recursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Array_sum_recursive\Array_sum_recursive\obj\Debug\net8.0\Array_sum_recursive.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Array_sum_recursive\Array_sum_recursive\obj\Debug\net8.0\Array_sum_recursive.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Array_sum_recursive\Array_sum_recursive\obj\Debug\net8.0\Array_sum_recursive.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Array_sum_recursive\Array_sum_recursive\bin\Debug\net8.0\Array_sum_recursive.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Array_sum_recursive\Array_sum_recursive\bin\Debug\net8.0\Array_sum_recursive.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Array_sum_recursive\Array_sum_recursive\bin\Debug\net8.0\Array_sum_recursive.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Array_sum_recursive\Array_sum_recursive\bin\Debug\net8.0\Array_sum_recursive.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Array_sum_recursive\Array_sum_recursive\bin\Debug\net8.0\Array_sum_recursive.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Array_sum_recursive\Array_sum_recursive\obj\Debug\net8.0\Array_sum_recursive.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Array_sum_recursive\Array_sum_recursive\obj\Debug\net8.0\refint\Array_sum_recursive.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Array_sum_recursive\Array_sum_recursive\obj\Debug\net8.0\Array_sum_recursive.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Array_sum_recursive\Array_sum_recursive\obj\Debug\net8.0\Array_sum_recursive.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Array_sum_recursive\Array_sum_recursive\obj\Debug\net8.0\ref\Array_sum_recursive.dll

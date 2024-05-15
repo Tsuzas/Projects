@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_seqs\Fibonacci_seqs\obj\Debug\net8.0\Fibonacci_seqs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_seqs\Fibonacci_seqs\obj\Debug\net8.0\Fibonacci_seqs.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_seqs\Fibonacci_seqs\obj\Debug\net8.0\Fibonacci_seqs.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_seqs\Fibonacci_seqs\obj\Debug\net8.0\Fibonacci_seqs.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_seqs\Fibonacci_seqs\bin\Debug\net8.0\Fibonacci_seqs.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_seqs\Fibonacci_seqs\bin\Debug\net8.0\Fibonacci_seqs.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_seqs\Fibonacci_seqs\bin\Debug\net8.0\Fibonacci_seqs.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_seqs\Fibonacci_seqs\bin\Debug\net8.0\Fibonacci_seqs.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_seqs\Fibonacci_seqs\bin\Debug\net8.0\Fibonacci_seqs.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_seqs\Fibonacci_seqs\obj\Debug\net8.0\Fibonacci_seqs.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_seqs\Fibonacci_seqs\obj\Debug\net8.0\refint\Fibonacci_seqs.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_seqs\Fibonacci_seqs\obj\Debug\net8.0\Fibonacci_seqs.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_seqs\Fibonacci_seqs\obj\Debug\net8.0\Fibonacci_seqs.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_seqs\Fibonacci_seqs\obj\Debug\net8.0\ref\Fibonacci_seqs.dll

@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Grading_exercicio\Grading_exercicio\bin\Debug\net8.0\Grading_exercicio.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Grading_exercicio\Grading_exercicio\bin\Debug\net8.0\Grading_exercicio.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Grading_exercicio\Grading_exercicio\bin\Debug\net8.0\Grading_exercicio.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Grading_exercicio\Grading_exercicio\bin\Debug\net8.0\Grading_exercicio.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Grading_exercicio\Grading_exercicio\bin\Debug\net8.0\Grading_exercicio.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Grading_exercicio\Grading_exercicio\obj\Debug\net8.0\Grading_exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Grading_exercicio\Grading_exercicio\obj\Debug\net8.0\Grading_exercicio.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Grading_exercicio\Grading_exercicio\obj\Debug\net8.0\Grading_exercicio.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Grading_exercicio\Grading_exercicio\obj\Debug\net8.0\Grading_exercicio.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Grading_exercicio\Grading_exercicio\obj\Debug\net8.0\Grading_exercicio.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Grading_exercicio\Grading_exercicio\obj\Debug\net8.0\refint\Grading_exercicio.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Grading_exercicio\Grading_exercicio\obj\Debug\net8.0\Grading_exercicio.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Grading_exercicio\Grading_exercicio\obj\Debug\net8.0\Grading_exercicio.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Grading_exercicio\Grading_exercicio\obj\Debug\net8.0\ref\Grading_exercicio.dll

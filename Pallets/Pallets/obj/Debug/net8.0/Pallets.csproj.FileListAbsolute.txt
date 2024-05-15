@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Pallets\Pallets\bin\Debug\net8.0\Pallets.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Pallets\Pallets\bin\Debug\net8.0\Pallets.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Pallets\Pallets\bin\Debug\net8.0\Pallets.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Pallets\Pallets\bin\Debug\net8.0\Pallets.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Pallets\Pallets\bin\Debug\net8.0\Pallets.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Pallets\Pallets\obj\Debug\net8.0\Pallets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Pallets\Pallets\obj\Debug\net8.0\Pallets.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Pallets\Pallets\obj\Debug\net8.0\Pallets.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Pallets\Pallets\obj\Debug\net8.0\Pallets.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Pallets\Pallets\obj\Debug\net8.0\Pallets.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Pallets\Pallets\obj\Debug\net8.0\refint\Pallets.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Pallets\Pallets\obj\Debug\net8.0\Pallets.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Pallets\Pallets\obj\Debug\net8.0\Pallets.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Pallets\Pallets\obj\Debug\net8.0\ref\Pallets.dll

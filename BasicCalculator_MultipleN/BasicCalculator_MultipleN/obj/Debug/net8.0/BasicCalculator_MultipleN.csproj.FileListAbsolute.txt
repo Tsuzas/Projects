@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\BasicCalculator_MultipleN\BasicCalculator_MultipleN\obj\Debug\net8.0\BasicCalculator_MultipleN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\BasicCalculator_MultipleN\BasicCalculator_MultipleN\obj\Debug\net8.0\BasicCalculator_MultipleN.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\BasicCalculator_MultipleN\BasicCalculator_MultipleN\obj\Debug\net8.0\BasicCalculator_MultipleN.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\BasicCalculator_MultipleN\BasicCalculator_MultipleN\obj\Debug\net8.0\BasicCalculator_MultipleN.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\BasicCalculator_MultipleN\BasicCalculator_MultipleN\bin\Debug\net8.0\BasicCalculator_MultipleN.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\BasicCalculator_MultipleN\BasicCalculator_MultipleN\bin\Debug\net8.0\BasicCalculator_MultipleN.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\BasicCalculator_MultipleN\BasicCalculator_MultipleN\bin\Debug\net8.0\BasicCalculator_MultipleN.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\BasicCalculator_MultipleN\BasicCalculator_MultipleN\bin\Debug\net8.0\BasicCalculator_MultipleN.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\BasicCalculator_MultipleN\BasicCalculator_MultipleN\bin\Debug\net8.0\BasicCalculator_MultipleN.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\BasicCalculator_MultipleN\BasicCalculator_MultipleN\obj\Debug\net8.0\BasicCalculator_MultipleN.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\BasicCalculator_MultipleN\BasicCalculator_MultipleN\obj\Debug\net8.0\refint\BasicCalculator_MultipleN.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\BasicCalculator_MultipleN\BasicCalculator_MultipleN\obj\Debug\net8.0\BasicCalculator_MultipleN.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\BasicCalculator_MultipleN\BasicCalculator_MultipleN\obj\Debug\net8.0\BasicCalculator_MultipleN.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\BasicCalculator_MultipleN\BasicCalculator_MultipleN\obj\Debug\net8.0\ref\BasicCalculator_MultipleN.dll

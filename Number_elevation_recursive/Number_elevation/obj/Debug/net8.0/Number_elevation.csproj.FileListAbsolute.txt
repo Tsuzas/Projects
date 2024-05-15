@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Number_elevation\Number_elevation\obj\Debug\net8.0\Number_elevation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Number_elevation\Number_elevation\obj\Debug\net8.0\Number_elevation.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Number_elevation\Number_elevation\obj\Debug\net8.0\Number_elevation.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Number_elevation\Number_elevation\obj\Debug\net8.0\Number_elevation.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Number_elevation\Number_elevation\bin\Debug\net8.0\Number_elevation.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Number_elevation\Number_elevation\bin\Debug\net8.0\Number_elevation.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Number_elevation\Number_elevation\bin\Debug\net8.0\Number_elevation.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Number_elevation\Number_elevation\bin\Debug\net8.0\Number_elevation.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Number_elevation\Number_elevation\bin\Debug\net8.0\Number_elevation.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Number_elevation\Number_elevation\obj\Debug\net8.0\Number_elevation.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Number_elevation\Number_elevation\obj\Debug\net8.0\refint\Number_elevation.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Number_elevation\Number_elevation\obj\Debug\net8.0\Number_elevation.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Number_elevation\Number_elevation\obj\Debug\net8.0\Number_elevation.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Number_elevation\Number_elevation\obj\Debug\net8.0\ref\Number_elevation.dll

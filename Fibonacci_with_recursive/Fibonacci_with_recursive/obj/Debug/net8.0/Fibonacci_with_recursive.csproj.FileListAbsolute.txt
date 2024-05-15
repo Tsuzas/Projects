@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_with_recursive\Fibonacci_with_recursive\bin\Debug\net8.0\Fibonacci_with_recursive.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_with_recursive\Fibonacci_with_recursive\bin\Debug\net8.0\Fibonacci_with_recursive.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_with_recursive\Fibonacci_with_recursive\bin\Debug\net8.0\Fibonacci_with_recursive.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_with_recursive\Fibonacci_with_recursive\bin\Debug\net8.0\Fibonacci_with_recursive.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_with_recursive\Fibonacci_with_recursive\bin\Debug\net8.0\Fibonacci_with_recursive.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_with_recursive\Fibonacci_with_recursive\obj\Debug\net8.0\Fibonacci_with_recursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_with_recursive\Fibonacci_with_recursive\obj\Debug\net8.0\Fibonacci_with_recursive.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_with_recursive\Fibonacci_with_recursive\obj\Debug\net8.0\Fibonacci_with_recursive.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_with_recursive\Fibonacci_with_recursive\obj\Debug\net8.0\Fibonacci_with_recursive.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_with_recursive\Fibonacci_with_recursive\obj\Debug\net8.0\Fibonacci_with_recursive.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_with_recursive\Fibonacci_with_recursive\obj\Debug\net8.0\refint\Fibonacci_with_recursive.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_with_recursive\Fibonacci_with_recursive\obj\Debug\net8.0\Fibonacci_with_recursive.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_with_recursive\Fibonacci_with_recursive\obj\Debug\net8.0\Fibonacci_with_recursive.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fibonacci_with_recursive\Fibonacci_with_recursive\obj\Debug\net8.0\ref\Fibonacci_with_recursive.dll

@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\csharp-convert-cast\csharp-convert-cast\bin\Debug\net8.0\csharp-convert-cast.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\csharp-convert-cast\csharp-convert-cast\bin\Debug\net8.0\csharp-convert-cast.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\csharp-convert-cast\csharp-convert-cast\bin\Debug\net8.0\csharp-convert-cast.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\csharp-convert-cast\csharp-convert-cast\bin\Debug\net8.0\csharp-convert-cast.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\csharp-convert-cast\csharp-convert-cast\bin\Debug\net8.0\csharp-convert-cast.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\csharp-convert-cast\csharp-convert-cast\obj\Debug\net8.0\csharp-convert-cast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\csharp-convert-cast\csharp-convert-cast\obj\Debug\net8.0\csharp-convert-cast.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\csharp-convert-cast\csharp-convert-cast\obj\Debug\net8.0\csharp-convert-cast.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\csharp-convert-cast\csharp-convert-cast\obj\Debug\net8.0\csharp-convert-cast.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\csharp-convert-cast\csharp-convert-cast\obj\Debug\net8.0\csharp-convert-cast.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\csharp-convert-cast\csharp-convert-cast\obj\Debug\net8.0\refint\csharp-convert-cast.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\csharp-convert-cast\csharp-convert-cast\obj\Debug\net8.0\csharp-convert-cast.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\csharp-convert-cast\csharp-convert-cast\obj\Debug\net8.0\csharp-convert-cast.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\csharp-convert-cast\csharp-convert-cast\obj\Debug\net8.0\ref\csharp-convert-cast.dll

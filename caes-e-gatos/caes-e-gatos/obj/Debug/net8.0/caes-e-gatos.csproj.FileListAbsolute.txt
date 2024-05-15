@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\caes-e-gatos\caes-e-gatos\bin\Debug\net8.0\caes-e-gatos.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\caes-e-gatos\caes-e-gatos\bin\Debug\net8.0\caes-e-gatos.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\caes-e-gatos\caes-e-gatos\bin\Debug\net8.0\caes-e-gatos.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\caes-e-gatos\caes-e-gatos\bin\Debug\net8.0\caes-e-gatos.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\caes-e-gatos\caes-e-gatos\bin\Debug\net8.0\caes-e-gatos.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\caes-e-gatos\caes-e-gatos\obj\Debug\net8.0\caes-e-gatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\caes-e-gatos\caes-e-gatos\obj\Debug\net8.0\caes-e-gatos.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\caes-e-gatos\caes-e-gatos\obj\Debug\net8.0\caes-e-gatos.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\caes-e-gatos\caes-e-gatos\obj\Debug\net8.0\caes-e-gatos.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\caes-e-gatos\caes-e-gatos\obj\Debug\net8.0\caes-e-gatos.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\caes-e-gatos\caes-e-gatos\obj\Debug\net8.0\refint\caes-e-gatos.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\caes-e-gatos\caes-e-gatos\obj\Debug\net8.0\caes-e-gatos.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\caes-e-gatos\caes-e-gatos\obj\Debug\net8.0\caes-e-gatos.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\caes-e-gatos\caes-e-gatos\obj\Debug\net8.0\ref\caes-e-gatos.dll

@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calling_mathChallange\Calling_mathChallange\bin\Debug\net8.0\Calling_mathChallange.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calling_mathChallange\Calling_mathChallange\bin\Debug\net8.0\Calling_mathChallange.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calling_mathChallange\Calling_mathChallange\bin\Debug\net8.0\Calling_mathChallange.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calling_mathChallange\Calling_mathChallange\bin\Debug\net8.0\Calling_mathChallange.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calling_mathChallange\Calling_mathChallange\bin\Debug\net8.0\Calling_mathChallange.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calling_mathChallange\Calling_mathChallange\obj\Debug\net8.0\Calling_mathChallange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calling_mathChallange\Calling_mathChallange\obj\Debug\net8.0\Calling_mathChallange.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calling_mathChallange\Calling_mathChallange\obj\Debug\net8.0\Calling_mathChallange.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calling_mathChallange\Calling_mathChallange\obj\Debug\net8.0\Calling_mathChallange.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calling_mathChallange\Calling_mathChallange\obj\Debug\net8.0\Calling_mathChallange.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calling_mathChallange\Calling_mathChallange\obj\Debug\net8.0\refint\Calling_mathChallange.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calling_mathChallange\Calling_mathChallange\obj\Debug\net8.0\Calling_mathChallange.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calling_mathChallange\Calling_mathChallange\obj\Debug\net8.0\Calling_mathChallange.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Calling_mathChallange\Calling_mathChallange\obj\Debug\net8.0\ref\Calling_mathChallange.dll

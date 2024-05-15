@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\For_statements\For_statements\bin\Debug\net8.0\For_statements.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\For_statements\For_statements\bin\Debug\net8.0\For_statements.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\For_statements\For_statements\bin\Debug\net8.0\For_statements.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\For_statements\For_statements\bin\Debug\net8.0\For_statements.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\For_statements\For_statements\bin\Debug\net8.0\For_statements.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\For_statements\For_statements\obj\Debug\net8.0\For_statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\For_statements\For_statements\obj\Debug\net8.0\For_statements.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\For_statements\For_statements\obj\Debug\net8.0\For_statements.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\For_statements\For_statements\obj\Debug\net8.0\For_statements.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\For_statements\For_statements\obj\Debug\net8.0\For_statements.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\For_statements\For_statements\obj\Debug\net8.0\refint\For_statements.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\For_statements\For_statements\obj\Debug\net8.0\For_statements.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\For_statements\For_statements\obj\Debug\net8.0\For_statements.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\For_statements\For_statements\obj\Debug\net8.0\ref\For_statements.dll

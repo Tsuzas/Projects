@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Equality_and_Inequality\Equality_and_Inequality\bin\Debug\net8.0\Equality_and_Inequality.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Equality_and_Inequality\Equality_and_Inequality\bin\Debug\net8.0\Equality_and_Inequality.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Equality_and_Inequality\Equality_and_Inequality\bin\Debug\net8.0\Equality_and_Inequality.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Equality_and_Inequality\Equality_and_Inequality\bin\Debug\net8.0\Equality_and_Inequality.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Equality_and_Inequality\Equality_and_Inequality\bin\Debug\net8.0\Equality_and_Inequality.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Equality_and_Inequality\Equality_and_Inequality\obj\Debug\net8.0\Equality_and_Inequality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Equality_and_Inequality\Equality_and_Inequality\obj\Debug\net8.0\Equality_and_Inequality.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Equality_and_Inequality\Equality_and_Inequality\obj\Debug\net8.0\Equality_and_Inequality.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Equality_and_Inequality\Equality_and_Inequality\obj\Debug\net8.0\Equality_and_Inequality.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Equality_and_Inequality\Equality_and_Inequality\obj\Debug\net8.0\Equality_and_Inequality.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Equality_and_Inequality\Equality_and_Inequality\obj\Debug\net8.0\refint\Equality_and_Inequality.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Equality_and_Inequality\Equality_and_Inequality\obj\Debug\net8.0\Equality_and_Inequality.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Equality_and_Inequality\Equality_and_Inequality\obj\Debug\net8.0\Equality_and_Inequality.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Equality_and_Inequality\Equality_and_Inequality\obj\Debug\net8.0\ref\Equality_and_Inequality.dll

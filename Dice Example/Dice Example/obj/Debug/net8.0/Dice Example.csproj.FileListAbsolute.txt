@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Dice Example\Dice Example\bin\Debug\net8.0\Dice Example.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Dice Example\Dice Example\bin\Debug\net8.0\Dice Example.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Dice Example\Dice Example\bin\Debug\net8.0\Dice Example.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Dice Example\Dice Example\bin\Debug\net8.0\Dice Example.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Dice Example\Dice Example\bin\Debug\net8.0\Dice Example.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Dice Example\Dice Example\obj\Debug\net8.0\Dice Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Dice Example\Dice Example\obj\Debug\net8.0\Dice Example.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Dice Example\Dice Example\obj\Debug\net8.0\Dice Example.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Dice Example\Dice Example\obj\Debug\net8.0\Dice Example.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Dice Example\Dice Example\obj\Debug\net8.0\Dice Example.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Dice Example\Dice Example\obj\Debug\net8.0\refint\Dice Example.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Dice Example\Dice Example\obj\Debug\net8.0\Dice Example.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Dice Example\Dice Example\obj\Debug\net8.0\Dice Example.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Dice Example\Dice Example\obj\Debug\net8.0\ref\Dice Example.dll
