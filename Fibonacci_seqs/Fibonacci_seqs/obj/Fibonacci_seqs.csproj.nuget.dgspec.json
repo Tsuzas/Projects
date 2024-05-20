@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Fibonacci_seqs\\Fibonacci_seqs\\Fibonacci_seqs.csproj": {}
+    "C:\\Users\\fpere\\Website_Git\\Projects\\Fibonacci_seqs\\Fibonacci_seqs\\Fibonacci_seqs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Fibonacci_seqs\\Fibonacci_seqs\\Fibonacci_seqs.csproj": {
+    "C:\\Users\\fpere\\Website_Git\\Projects\\Fibonacci_seqs\\Fibonacci_seqs\\Fibonacci_seqs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Fibonacci_seqs\\Fibonacci_seqs\\Fibonacci_seqs.csproj",
+        "projectUniqueName": "C:\\Users\\fpere\\Website_Git\\Projects\\Fibonacci_seqs\\Fibonacci_seqs\\Fibonacci_seqs.csproj",
         "projectName": "Fibonacci_seqs",
-        "projectPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Fibonacci_seqs\\Fibonacci_seqs\\Fibonacci_seqs.csproj",
+        "projectPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Fibonacci_seqs\\Fibonacci_seqs\\Fibonacci_seqs.csproj",
         "packagesPath": "C:\\Users\\fpere\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Fibonacci_seqs\\Fibonacci_seqs\\obj\\",
+        "outputPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Fibonacci_seqs\\Fibonacci_seqs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fpere\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Number_elevation_recursive\\",
+  "WorkspaceRootPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Number_elevation_recursive\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD712D42-BDDA-4BF9-BC7E-96E3F9E46DB2}|Number_elevation\\Number_elevation.csproj|c:\\users\\fpere\\onedrive\\ambiente de trabalho\\c#\\number_elevation_recursive\\number_elevation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD712D42-BDDA-4BF9-BC7E-96E3F9E46DB2}|Number_elevation\\Number_elevation.csproj|c:\\users\\fpere\\website_git\\projects\\number_elevation_recursive\\number_elevation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD712D42-BDDA-4BF9-BC7E-96E3F9E46DB2}|Number_elevation\\Number_elevation.csproj|solutionrelative:number_elevation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Number_elevation_recursive\\Number_elevation\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fpere\\Website_Git\\Projects\\Number_elevation_recursive\\Number_elevation\\Program.cs",
               "RelativeDocumentMoniker": "Number_elevation\\Program.cs",
-              "ToolTip": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Number_elevation_recursive\\Number_elevation\\Program.cs",
+              "ToolTip": "C:\\Users\\fpere\\Website_Git\\Projects\\Number_elevation_recursive\\Number_elevation\\Program.cs",
               "RelativeToolTip": "Number_elevation\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

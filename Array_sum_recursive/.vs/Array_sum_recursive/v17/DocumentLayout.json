@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Array_sum_recursive\\",
+  "WorkspaceRootPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Array_sum_recursive\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3176BE9D-CB76-48FD-AB2C-DBDDA4DC6A8E}|Array_sum_recursive\\Array_sum_recursive.csproj|c:\\users\\fpere\\onedrive\\ambiente de trabalho\\c#\\array_sum_recursive\\array_sum_recursive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3176BE9D-CB76-48FD-AB2C-DBDDA4DC6A8E}|Array_sum_recursive\\Array_sum_recursive.csproj|c:\\users\\fpere\\website_git\\projects\\array_sum_recursive\\array_sum_recursive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3176BE9D-CB76-48FD-AB2C-DBDDA4DC6A8E}|Array_sum_recursive\\Array_sum_recursive.csproj|solutionrelative:array_sum_recursive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Array_sum_recursive\\Array_sum_recursive\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fpere\\Website_Git\\Projects\\Array_sum_recursive\\Array_sum_recursive\\Program.cs",
               "RelativeDocumentMoniker": "Array_sum_recursive\\Program.cs",
-              "ToolTip": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Array_sum_recursive\\Array_sum_recursive\\Program.cs",
+              "ToolTip": "C:\\Users\\fpere\\Website_Git\\Projects\\Array_sum_recursive\\Array_sum_recursive\\Program.cs",
               "RelativeToolTip": "Array_sum_recursive\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Grading_exercicio\\Grading_exercicio\\Grading_exercicio.csproj": {}
+    "C:\\Users\\fpere\\Website_Git\\Projects\\Grading_exercicio\\Grading_exercicio\\Grading_exercicio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Grading_exercicio\\Grading_exercicio\\Grading_exercicio.csproj": {
+    "C:\\Users\\fpere\\Website_Git\\Projects\\Grading_exercicio\\Grading_exercicio\\Grading_exercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Grading_exercicio\\Grading_exercicio\\Grading_exercicio.csproj",
+        "projectUniqueName": "C:\\Users\\fpere\\Website_Git\\Projects\\Grading_exercicio\\Grading_exercicio\\Grading_exercicio.csproj",
         "projectName": "Grading_exercicio",
-        "projectPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Grading_exercicio\\Grading_exercicio\\Grading_exercicio.csproj",
+        "projectPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Grading_exercicio\\Grading_exercicio\\Grading_exercicio.csproj",
         "packagesPath": "C:\\Users\\fpere\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Grading_exercicio\\Grading_exercicio\\obj\\",
+        "outputPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Grading_exercicio\\Grading_exercicio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fpere\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\For_statements\\",
+  "WorkspaceRootPath": "C:\\Users\\fpere\\Website_Git\\Projects\\For_statements\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC7DFAE5-6EA5-4D69-8A97-8FFF50FC5575}|For_statements\\For_statements.csproj|c:\\users\\fpere\\onedrive\\ambiente de trabalho\\c#\\for_statements\\for_statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC7DFAE5-6EA5-4D69-8A97-8FFF50FC5575}|For_statements\\For_statements.csproj|c:\\users\\fpere\\website_git\\projects\\for_statements\\for_statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC7DFAE5-6EA5-4D69-8A97-8FFF50FC5575}|For_statements\\For_statements.csproj|solutionrelative:for_statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\For_statements\\For_statements\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fpere\\Website_Git\\Projects\\For_statements\\For_statements\\Program.cs",
               "RelativeDocumentMoniker": "For_statements\\Program.cs",
-              "ToolTip": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\For_statements\\For_statements\\Program.cs",
+              "ToolTip": "C:\\Users\\fpere\\Website_Git\\Projects\\For_statements\\For_statements\\Program.cs",
               "RelativeToolTip": "For_statements\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T12:44:19.813Z",
               "EditorCaption": ""

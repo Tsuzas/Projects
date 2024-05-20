@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Data_Values_training\\Data_Values_training\\Data_Values_training.csproj",
+      "projectUniqueName": "C:\\Users\\fpere\\Website_Git\\Projects\\Data_Values_training\\Data_Values_training\\Data_Values_training.csproj",
       "projectName": "Data_Values_training",
-      "projectPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Data_Values_training\\Data_Values_training\\Data_Values_training.csproj",
+      "projectPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Data_Values_training\\Data_Values_training\\Data_Values_training.csproj",
       "packagesPath": "C:\\Users\\fpere\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Data_Values_training\\Data_Values_training\\obj\\",
+      "outputPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Data_Values_training\\Data_Values_training\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fpere\\AppData\\Roaming\\NuGet\\NuGet.Config",

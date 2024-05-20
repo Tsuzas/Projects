@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Array_sum_recursive
-build_property.ProjectDir = C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Array_sum_recursive\Array_sum_recursive\
+build_property.ProjectDir = C:\Users\fpere\Website_Git\Projects\Array_sum_recursive\Array_sum_recursive\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

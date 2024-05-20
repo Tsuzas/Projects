@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Fibonacci_with_recursive\\Fibonacci_with_recursive\\Fibonacci_with_recursive.csproj",
+      "projectUniqueName": "C:\\Users\\fpere\\Website_Git\\Projects\\Fibonacci_with_recursive\\Fibonacci_with_recursive\\Fibonacci_with_recursive.csproj",
       "projectName": "Fibonacci_with_recursive",
-      "projectPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Fibonacci_with_recursive\\Fibonacci_with_recursive\\Fibonacci_with_recursive.csproj",
+      "projectPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Fibonacci_with_recursive\\Fibonacci_with_recursive\\Fibonacci_with_recursive.csproj",
       "packagesPath": "C:\\Users\\fpere\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Fibonacci_with_recursive\\Fibonacci_with_recursive\\obj\\",
+      "outputPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Fibonacci_with_recursive\\Fibonacci_with_recursive\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fpere\\AppData\\Roaming\\NuGet\\NuGet.Config",

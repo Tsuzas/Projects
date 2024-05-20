@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = triple_exercice
-build_property.ProjectDir = C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\triple exercice\triple exercice\
+build_property.ProjectDir = C:\Users\fpere\Website_Git\Projects\triple exercice\triple exercice\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

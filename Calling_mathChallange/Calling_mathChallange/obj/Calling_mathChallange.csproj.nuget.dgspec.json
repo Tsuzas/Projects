@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Calling_mathChallange\\Calling_mathChallange\\Calling_mathChallange.csproj": {}
+    "C:\\Users\\fpere\\Website_Git\\Projects\\Calling_mathChallange\\Calling_mathChallange\\Calling_mathChallange.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Calling_mathChallange\\Calling_mathChallange\\Calling_mathChallange.csproj": {
+    "C:\\Users\\fpere\\Website_Git\\Projects\\Calling_mathChallange\\Calling_mathChallange\\Calling_mathChallange.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Calling_mathChallange\\Calling_mathChallange\\Calling_mathChallange.csproj",
+        "projectUniqueName": "C:\\Users\\fpere\\Website_Git\\Projects\\Calling_mathChallange\\Calling_mathChallange\\Calling_mathChallange.csproj",
         "projectName": "Calling_mathChallange",
-        "projectPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Calling_mathChallange\\Calling_mathChallange\\Calling_mathChallange.csproj",
+        "projectPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Calling_mathChallange\\Calling_mathChallange\\Calling_mathChallange.csproj",
         "packagesPath": "C:\\Users\\fpere\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Calling_mathChallange\\Calling_mathChallange\\obj\\",
+        "outputPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Calling_mathChallange\\Calling_mathChallange\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fpere\\AppData\\Roaming\\NuGet\\NuGet.Config",

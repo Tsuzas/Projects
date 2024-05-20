@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Final_exercisio_grading\\Final_exercisio_grading\\Final_exercisio_grading.csproj": {}
+    "C:\\Users\\fpere\\Website_Git\\Projects\\Final_exercisio_grading\\Final_exercisio_grading\\Final_exercisio_grading.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Final_exercisio_grading\\Final_exercisio_grading\\Final_exercisio_grading.csproj": {
+    "C:\\Users\\fpere\\Website_Git\\Projects\\Final_exercisio_grading\\Final_exercisio_grading\\Final_exercisio_grading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Final_exercisio_grading\\Final_exercisio_grading\\Final_exercisio_grading.csproj",
+        "projectUniqueName": "C:\\Users\\fpere\\Website_Git\\Projects\\Final_exercisio_grading\\Final_exercisio_grading\\Final_exercisio_grading.csproj",
         "projectName": "Final_exercisio_grading",
-        "projectPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Final_exercisio_grading\\Final_exercisio_grading\\Final_exercisio_grading.csproj",
+        "projectPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Final_exercisio_grading\\Final_exercisio_grading\\Final_exercisio_grading.csproj",
         "packagesPath": "C:\\Users\\fpere\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Final_exercisio_grading\\Final_exercisio_grading\\obj\\",
+        "outputPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Final_exercisio_grading\\Final_exercisio_grading\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fpere\\AppData\\Roaming\\NuGet\\NuGet.Config",

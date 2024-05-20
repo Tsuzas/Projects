@@ -1,0 +1,29 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fradulent_Orders_Training\Fradulent_Orders_Training\bin\Debug\net8.0\Fradulent_Orders_Training.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fradulent_Orders_Training\Fradulent_Orders_Training\bin\Debug\net8.0\Fradulent_Orders_Training.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fradulent_Orders_Training\Fradulent_Orders_Training\bin\Debug\net8.0\Fradulent_Orders_Training.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fradulent_Orders_Training\Fradulent_Orders_Training\bin\Debug\net8.0\Fradulent_Orders_Training.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fradulent_Orders_Training\Fradulent_Orders_Training\bin\Debug\net8.0\Fradulent_Orders_Training.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\Fradulent_Orders_Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\Fradulent_Orders_Training.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\Fradulent_Orders_Training.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\Fradulent_Orders_Training.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\Fradulent_Orders_Training.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\refint\Fradulent_Orders_Training.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\Fradulent_Orders_Training.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\Fradulent_Orders_Training.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\ref\Fradulent_Orders_Training.dll
+C:\Users\fpere\Website_Git\Projects\Fradulent_Orders_Training\Fradulent_Orders_Training\bin\Debug\net8.0\Fradulent_Orders_Training.exe
+C:\Users\fpere\Website_Git\Projects\Fradulent_Orders_Training\Fradulent_Orders_Training\bin\Debug\net8.0\Fradulent_Orders_Training.deps.json
+C:\Users\fpere\Website_Git\Projects\Fradulent_Orders_Training\Fradulent_Orders_Training\bin\Debug\net8.0\Fradulent_Orders_Training.runtimeconfig.json
+C:\Users\fpere\Website_Git\Projects\Fradulent_Orders_Training\Fradulent_Orders_Training\bin\Debug\net8.0\Fradulent_Orders_Training.dll
+C:\Users\fpere\Website_Git\Projects\Fradulent_Orders_Training\Fradulent_Orders_Training\bin\Debug\net8.0\Fradulent_Orders_Training.pdb
+C:\Users\fpere\Website_Git\Projects\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\Fradulent_Orders_Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\Website_Git\Projects\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\Fradulent_Orders_Training.AssemblyInfoInputs.cache
+C:\Users\fpere\Website_Git\Projects\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\Fradulent_Orders_Training.AssemblyInfo.cs
+C:\Users\fpere\Website_Git\Projects\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\Fradulent_Orders_Training.csproj.CoreCompileInputs.cache
+C:\Users\fpere\Website_Git\Projects\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\Fradulent_Orders_Training.sourcelink.json
+C:\Users\fpere\Website_Git\Projects\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\Fradulent_Orders_Training.dll
+C:\Users\fpere\Website_Git\Projects\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\refint\Fradulent_Orders_Training.dll
+C:\Users\fpere\Website_Git\Projects\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\Fradulent_Orders_Training.pdb
+C:\Users\fpere\Website_Git\Projects\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\Fradulent_Orders_Training.genruntimeconfig.cache
+C:\Users\fpere\Website_Git\Projects\Fradulent_Orders_Training\Fradulent_Orders_Training\obj\Debug\net8.0\ref\Fradulent_Orders_Training.dll

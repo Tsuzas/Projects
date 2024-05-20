@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Discount_messages\\",
+  "WorkspaceRootPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Discount_messages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65EB0391-2790-4A78-B371-98722992DBC7}|Discount_messages\\Discount_messages.csproj|c:\\users\\fpere\\onedrive\\ambiente de trabalho\\c#\\discount_messages\\discount_messages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65EB0391-2790-4A78-B371-98722992DBC7}|Discount_messages\\Discount_messages.csproj|c:\\users\\fpere\\website_git\\projects\\discount_messages\\discount_messages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65EB0391-2790-4A78-B371-98722992DBC7}|Discount_messages\\Discount_messages.csproj|solutionrelative:discount_messages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Discount_messages\\Discount_messages\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fpere\\Website_Git\\Projects\\Discount_messages\\Discount_messages\\Program.cs",
               "RelativeDocumentMoniker": "Discount_messages\\Program.cs",
-              "ToolTip": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Discount_messages\\Discount_messages\\Program.cs",
+              "ToolTip": "C:\\Users\\fpere\\Website_Git\\Projects\\Discount_messages\\Discount_messages\\Program.cs",
               "RelativeToolTip": "Discount_messages\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

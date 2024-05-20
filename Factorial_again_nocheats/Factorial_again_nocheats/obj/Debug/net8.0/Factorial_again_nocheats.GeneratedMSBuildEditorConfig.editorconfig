@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Factorial_again_nocheats
-build_property.ProjectDir = C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Factorial_again_nocheats\Factorial_again_nocheats\
+build_property.ProjectDir = C:\Users\fpere\Website_Git\Projects\Factorial_again_nocheats\Factorial_again_nocheats\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

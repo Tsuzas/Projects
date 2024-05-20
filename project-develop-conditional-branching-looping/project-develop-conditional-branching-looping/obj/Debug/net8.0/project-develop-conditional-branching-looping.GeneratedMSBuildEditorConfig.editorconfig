@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = project_develop_conditional_branching_looping
-build_property.ProjectDir = C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\project-develop-conditional-branching-looping\project-develop-conditional-branching-looping\
+build_property.ProjectDir = C:\Users\fpere\Website_Git\Projects\project-develop-conditional-branching-looping\project-develop-conditional-branching-looping\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

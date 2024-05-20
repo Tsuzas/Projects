@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Splits() and stuff like that\\Splits() and stuff like that\\Splits() and stuff like that.csproj",
+      "projectUniqueName": "C:\\Users\\fpere\\Website_Git\\Projects\\Splits() and stuff like that\\Splits() and stuff like that\\Splits() and stuff like that.csproj",
       "projectName": "Splits() and stuff like that",
-      "projectPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Splits() and stuff like that\\Splits() and stuff like that\\Splits() and stuff like that.csproj",
+      "projectPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Splits() and stuff like that\\Splits() and stuff like that\\Splits() and stuff like that.csproj",
       "packagesPath": "C:\\Users\\fpere\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Splits() and stuff like that\\Splits() and stuff like that\\obj\\",
+      "outputPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Splits() and stuff like that\\Splits() and stuff like that\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fpere\\AppData\\Roaming\\NuGet\\NuGet.Config",

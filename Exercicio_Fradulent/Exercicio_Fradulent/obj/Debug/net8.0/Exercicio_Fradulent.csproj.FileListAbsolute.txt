@@ -12,3 +12,18 @@ C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Exercicio_Fradulent\Exercicio_Fr
 C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Exercicio_Fradulent\Exercicio_Fradulent\obj\Debug\net8.0\Exercicio_Fradulent.pdb
 C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Exercicio_Fradulent\Exercicio_Fradulent\obj\Debug\net8.0\Exercicio_Fradulent.genruntimeconfig.cache
 C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Exercicio_Fradulent\Exercicio_Fradulent\obj\Debug\net8.0\ref\Exercicio_Fradulent.dll
+C:\Users\fpere\Website_Git\Projects\Exercicio_Fradulent\Exercicio_Fradulent\bin\Debug\net8.0\Exercicio_Fradulent.exe
+C:\Users\fpere\Website_Git\Projects\Exercicio_Fradulent\Exercicio_Fradulent\bin\Debug\net8.0\Exercicio_Fradulent.deps.json
+C:\Users\fpere\Website_Git\Projects\Exercicio_Fradulent\Exercicio_Fradulent\bin\Debug\net8.0\Exercicio_Fradulent.runtimeconfig.json
+C:\Users\fpere\Website_Git\Projects\Exercicio_Fradulent\Exercicio_Fradulent\bin\Debug\net8.0\Exercicio_Fradulent.dll
+C:\Users\fpere\Website_Git\Projects\Exercicio_Fradulent\Exercicio_Fradulent\bin\Debug\net8.0\Exercicio_Fradulent.pdb
+C:\Users\fpere\Website_Git\Projects\Exercicio_Fradulent\Exercicio_Fradulent\obj\Debug\net8.0\Exercicio_Fradulent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\Website_Git\Projects\Exercicio_Fradulent\Exercicio_Fradulent\obj\Debug\net8.0\Exercicio_Fradulent.AssemblyInfoInputs.cache
+C:\Users\fpere\Website_Git\Projects\Exercicio_Fradulent\Exercicio_Fradulent\obj\Debug\net8.0\Exercicio_Fradulent.AssemblyInfo.cs
+C:\Users\fpere\Website_Git\Projects\Exercicio_Fradulent\Exercicio_Fradulent\obj\Debug\net8.0\Exercicio_Fradulent.csproj.CoreCompileInputs.cache
+C:\Users\fpere\Website_Git\Projects\Exercicio_Fradulent\Exercicio_Fradulent\obj\Debug\net8.0\Exercicio_Fradulent.sourcelink.json
+C:\Users\fpere\Website_Git\Projects\Exercicio_Fradulent\Exercicio_Fradulent\obj\Debug\net8.0\Exercicio_Fradulent.dll
+C:\Users\fpere\Website_Git\Projects\Exercicio_Fradulent\Exercicio_Fradulent\obj\Debug\net8.0\refint\Exercicio_Fradulent.dll
+C:\Users\fpere\Website_Git\Projects\Exercicio_Fradulent\Exercicio_Fradulent\obj\Debug\net8.0\Exercicio_Fradulent.pdb
+C:\Users\fpere\Website_Git\Projects\Exercicio_Fradulent\Exercicio_Fradulent\obj\Debug\net8.0\Exercicio_Fradulent.genruntimeconfig.cache
+C:\Users\fpere\Website_Git\Projects\Exercicio_Fradulent\Exercicio_Fradulent\obj\Debug\net8.0\ref\Exercicio_Fradulent.dll

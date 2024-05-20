@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\triple exercice\\triple exercice\\triple exercice.csproj": {}
+    "C:\\Users\\fpere\\Website_Git\\Projects\\triple exercice\\triple exercice\\triple exercice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\triple exercice\\triple exercice\\triple exercice.csproj": {
+    "C:\\Users\\fpere\\Website_Git\\Projects\\triple exercice\\triple exercice\\triple exercice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\triple exercice\\triple exercice\\triple exercice.csproj",
+        "projectUniqueName": "C:\\Users\\fpere\\Website_Git\\Projects\\triple exercice\\triple exercice\\triple exercice.csproj",
         "projectName": "triple exercice",
-        "projectPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\triple exercice\\triple exercice\\triple exercice.csproj",
+        "projectPath": "C:\\Users\\fpere\\Website_Git\\Projects\\triple exercice\\triple exercice\\triple exercice.csproj",
         "packagesPath": "C:\\Users\\fpere\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\triple exercice\\triple exercice\\obj\\",
+        "outputPath": "C:\\Users\\fpere\\Website_Git\\Projects\\triple exercice\\triple exercice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fpere\\AppData\\Roaming\\NuGet\\NuGet.Config",

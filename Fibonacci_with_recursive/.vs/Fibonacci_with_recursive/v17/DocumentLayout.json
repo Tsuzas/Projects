@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Fibonacci_with_recursive\\",
+  "WorkspaceRootPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Fibonacci_with_recursive\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A30B5F8-3572-48AC-B7A1-6BF99C945520}|Fibonacci_with_recursive\\Fibonacci_with_recursive.csproj|c:\\users\\fpere\\onedrive\\ambiente de trabalho\\c#\\fibonacci_with_recursive\\fibonacci_with_recursive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A30B5F8-3572-48AC-B7A1-6BF99C945520}|Fibonacci_with_recursive\\Fibonacci_with_recursive.csproj|c:\\users\\fpere\\website_git\\projects\\fibonacci_with_recursive\\fibonacci_with_recursive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A30B5F8-3572-48AC-B7A1-6BF99C945520}|Fibonacci_with_recursive\\Fibonacci_with_recursive.csproj|solutionrelative:fibonacci_with_recursive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Fibonacci_with_recursive\\Fibonacci_with_recursive\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fpere\\Website_Git\\Projects\\Fibonacci_with_recursive\\Fibonacci_with_recursive\\Program.cs",
               "RelativeDocumentMoniker": "Fibonacci_with_recursive\\Program.cs",
-              "ToolTip": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Fibonacci_with_recursive\\Fibonacci_with_recursive\\Program.cs",
+              "ToolTip": "C:\\Users\\fpere\\Website_Git\\Projects\\Fibonacci_with_recursive\\Fibonacci_with_recursive\\Program.cs",
               "RelativeToolTip": "Fibonacci_with_recursive\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

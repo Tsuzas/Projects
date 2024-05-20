@@ -15,7 +15,7 @@ do
     }   
     else
     {
-        Console.WriteLine("Try again you dumb madafaka");
+        Console.WriteLine("Try again you ");
     }
 } while (accessKey == false);
 

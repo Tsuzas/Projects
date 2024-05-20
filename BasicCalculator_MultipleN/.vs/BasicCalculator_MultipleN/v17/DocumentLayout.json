@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\BasicCalculator_MultipleN\\",
+  "WorkspaceRootPath": "C:\\Users\\fpere\\Website_Git\\Projects\\BasicCalculator_MultipleN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98B117F1-7031-48A8-8FCD-D74DA586A8B6}|BasicCalculator_MultipleN\\BasicCalculator_MultipleN.csproj|c:\\users\\fpere\\onedrive\\ambiente de trabalho\\c#\\basiccalculator_multiplen\\basiccalculator_multiplen\\calculator_multiplen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98B117F1-7031-48A8-8FCD-D74DA586A8B6}|BasicCalculator_MultipleN\\BasicCalculator_MultipleN.csproj|c:\\users\\fpere\\website_git\\projects\\basiccalculator_multiplen\\basiccalculator_multiplen\\calculator_multiplen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98B117F1-7031-48A8-8FCD-D74DA586A8B6}|BasicCalculator_MultipleN\\BasicCalculator_MultipleN.csproj|solutionrelative:basiccalculator_multiplen\\calculator_multiplen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -24,23 +24,22 @@
               "DocumentIndex": 1,
               "Title": "CalculatorBasic_2N.cs",
               "DocumentMoniker": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\CalculatorBasic_2N.cs",
-              "RelativeDocumentMoniker": "..\\CalculatorBasic_2N.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Ambiente de Trabalho\\C#\\CalculatorBasic_2N.cs",
               "ToolTip": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\CalculatorBasic_2N.cs",
-              "RelativeToolTip": "..\\CalculatorBasic_2N.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Ambiente de Trabalho\\C#\\CalculatorBasic_2N.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T11:54:21.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-29T11:54:21.731Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Calculator_MultipleN.cs",
-              "DocumentMoniker": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\BasicCalculator_MultipleN\\BasicCalculator_MultipleN\\Calculator_MultipleN.cs",
+              "DocumentMoniker": "C:\\Users\\fpere\\Website_Git\\Projects\\BasicCalculator_MultipleN\\BasicCalculator_MultipleN\\Calculator_MultipleN.cs",
               "RelativeDocumentMoniker": "BasicCalculator_MultipleN\\Calculator_MultipleN.cs",
-              "ToolTip": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\BasicCalculator_MultipleN\\BasicCalculator_MultipleN\\Calculator_MultipleN.cs",
+              "ToolTip": "C:\\Users\\fpere\\Website_Git\\Projects\\BasicCalculator_MultipleN\\BasicCalculator_MultipleN\\Calculator_MultipleN.cs",
               "RelativeToolTip": "BasicCalculator_MultipleN\\Calculator_MultipleN.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA3AAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T11:53:06.993Z",
               "EditorCaption": ""

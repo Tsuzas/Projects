@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Challange\\Challange\\Challange.csproj",
+      "projectUniqueName": "C:\\Users\\fpere\\Website_Git\\Projects\\Challange_sequence_error\\Challange\\Challange.csproj",
       "projectName": "Challange",
-      "projectPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Challange\\Challange\\Challange.csproj",
+      "projectPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Challange_sequence_error\\Challange\\Challange.csproj",
       "packagesPath": "C:\\Users\\fpere\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Challange\\Challange\\obj\\",
+      "outputPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Challange_sequence_error\\Challange\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fpere\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Decision_Logic_with_if's\\Decision_Logic_with_if's\\Decision_Logic_with_if's.csproj",
+      "projectUniqueName": "C:\\Users\\fpere\\Website_Git\\Projects\\Decision_Logic_with_if's\\Decision_Logic_with_if's\\Decision_Logic_with_if's.csproj",
       "projectName": "Decision_Logic_with_if's",
-      "projectPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Decision_Logic_with_if's\\Decision_Logic_with_if's\\Decision_Logic_with_if's.csproj",
+      "projectPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Decision_Logic_with_if's\\Decision_Logic_with_if's\\Decision_Logic_with_if's.csproj",
       "packagesPath": "C:\\Users\\fpere\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Decision_Logic_with_if's\\Decision_Logic_with_if's\\obj\\",
+      "outputPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Decision_Logic_with_if's\\Decision_Logic_with_if's\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fpere\\AppData\\Roaming\\NuGet\\NuGet.Config",

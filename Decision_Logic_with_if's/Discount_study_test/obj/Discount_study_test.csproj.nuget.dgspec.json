@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Decision_Logic_with_if's\\Discount_study_test\\Discount_study_test.csproj": {}
+    "C:\\Users\\fpere\\Website_Git\\Projects\\Decision_Logic_with_if's\\Discount_study_test\\Discount_study_test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Decision_Logic_with_if's\\Discount_study_test\\Discount_study_test.csproj": {
+    "C:\\Users\\fpere\\Website_Git\\Projects\\Decision_Logic_with_if's\\Discount_study_test\\Discount_study_test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Decision_Logic_with_if's\\Discount_study_test\\Discount_study_test.csproj",
+        "projectUniqueName": "C:\\Users\\fpere\\Website_Git\\Projects\\Decision_Logic_with_if's\\Discount_study_test\\Discount_study_test.csproj",
         "projectName": "Discount_study_test",
-        "projectPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Decision_Logic_with_if's\\Discount_study_test\\Discount_study_test.csproj",
+        "projectPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Decision_Logic_with_if's\\Discount_study_test\\Discount_study_test.csproj",
         "packagesPath": "C:\\Users\\fpere\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Decision_Logic_with_if's\\Discount_study_test\\obj\\",
+        "outputPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Decision_Logic_with_if's\\Discount_study_test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fpere\\AppData\\Roaming\\NuGet\\NuGet.Config",

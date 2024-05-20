@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\For_statements\\For_statements\\For_statements.csproj",
+      "projectUniqueName": "C:\\Users\\fpere\\Website_Git\\Projects\\For_statements\\For_statements\\For_statements.csproj",
       "projectName": "For_statements",
-      "projectPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\For_statements\\For_statements\\For_statements.csproj",
+      "projectPath": "C:\\Users\\fpere\\Website_Git\\Projects\\For_statements\\For_statements\\For_statements.csproj",
       "packagesPath": "C:\\Users\\fpere\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\For_statements\\For_statements\\obj\\",
+      "outputPath": "C:\\Users\\fpere\\Website_Git\\Projects\\For_statements\\For_statements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fpere\\AppData\\Roaming\\NuGet\\NuGet.Config",

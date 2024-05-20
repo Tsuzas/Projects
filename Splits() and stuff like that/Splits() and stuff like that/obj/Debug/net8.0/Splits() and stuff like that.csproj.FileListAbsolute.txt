@@ -1,0 +1,15 @@
+C:\Users\fpere\Website_Git\Projects\Splits() and stuff like that\Splits() and stuff like that\bin\Debug\net8.0\Splits() and stuff like that.exe
+C:\Users\fpere\Website_Git\Projects\Splits() and stuff like that\Splits() and stuff like that\bin\Debug\net8.0\Splits() and stuff like that.deps.json
+C:\Users\fpere\Website_Git\Projects\Splits() and stuff like that\Splits() and stuff like that\bin\Debug\net8.0\Splits() and stuff like that.runtimeconfig.json
+C:\Users\fpere\Website_Git\Projects\Splits() and stuff like that\Splits() and stuff like that\bin\Debug\net8.0\Splits() and stuff like that.dll
+C:\Users\fpere\Website_Git\Projects\Splits() and stuff like that\Splits() and stuff like that\bin\Debug\net8.0\Splits() and stuff like that.pdb
+C:\Users\fpere\Website_Git\Projects\Splits() and stuff like that\Splits() and stuff like that\obj\Debug\net8.0\Splits() and stuff like that.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\Website_Git\Projects\Splits() and stuff like that\Splits() and stuff like that\obj\Debug\net8.0\Splits() and stuff like that.AssemblyInfoInputs.cache
+C:\Users\fpere\Website_Git\Projects\Splits() and stuff like that\Splits() and stuff like that\obj\Debug\net8.0\Splits() and stuff like that.AssemblyInfo.cs
+C:\Users\fpere\Website_Git\Projects\Splits() and stuff like that\Splits() and stuff like that\obj\Debug\net8.0\Splits() and stuff like that.csproj.CoreCompileInputs.cache
+C:\Users\fpere\Website_Git\Projects\Splits() and stuff like that\Splits() and stuff like that\obj\Debug\net8.0\Splits() and stuff like that.sourcelink.json
+C:\Users\fpere\Website_Git\Projects\Splits() and stuff like that\Splits() and stuff like that\obj\Debug\net8.0\Splits() and stuff like that.dll
+C:\Users\fpere\Website_Git\Projects\Splits() and stuff like that\Splits() and stuff like that\obj\Debug\net8.0\refint\Splits() and stuff like that.dll
+C:\Users\fpere\Website_Git\Projects\Splits() and stuff like that\Splits() and stuff like that\obj\Debug\net8.0\Splits() and stuff like that.pdb
+C:\Users\fpere\Website_Git\Projects\Splits() and stuff like that\Splits() and stuff like that\obj\Debug\net8.0\Splits() and stuff like that.genruntimeconfig.cache
+C:\Users\fpere\Website_Git\Projects\Splits() and stuff like that\Splits() and stuff like that\obj\Debug\net8.0\ref\Splits() and stuff like that.dll

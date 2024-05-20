@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Factorial\\Factorial\\Factorial.csproj",
+      "projectUniqueName": "C:\\Users\\fpere\\Website_Git\\Projects\\Factorial\\Factorial\\Factorial.csproj",
       "projectName": "Factorial",
-      "projectPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Factorial\\Factorial\\Factorial.csproj",
+      "projectPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Factorial\\Factorial\\Factorial.csproj",
       "packagesPath": "C:\\Users\\fpere\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Factorial\\Factorial\\obj\\",
+      "outputPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Factorial\\Factorial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fpere\\AppData\\Roaming\\NuGet\\NuGet.Config",

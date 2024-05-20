@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Factorial\\",
+  "WorkspaceRootPath": "C:\\Users\\fpere\\Website_Git\\Projects\\Factorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4D70FE8-60DC-47FE-BA42-5AD089DEF139}|Factorial\\Factorial.csproj|c:\\users\\fpere\\onedrive\\ambiente de trabalho\\c#\\factorial\\factorial\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4D70FE8-60DC-47FE-BA42-5AD089DEF139}|Factorial\\Factorial.csproj|c:\\users\\fpere\\website_git\\projects\\factorial\\factorial\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4D70FE8-60DC-47FE-BA42-5AD089DEF139}|Factorial\\Factorial.csproj|solutionrelative:factorial\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Factorial.cs",
-              "DocumentMoniker": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Factorial\\Factorial\\Factorial.cs",
+              "DocumentMoniker": "C:\\Users\\fpere\\Website_Git\\Projects\\Factorial\\Factorial\\Factorial.cs",
               "RelativeDocumentMoniker": "Factorial\\Factorial.cs",
-              "ToolTip": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Factorial\\Factorial\\Factorial.cs*",
-              "RelativeToolTip": "Factorial\\Factorial.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAuAAAA",
+              "ToolTip": "C:\\Users\\fpere\\Website_Git\\Projects\\Factorial\\Factorial\\Factorial.cs",
+              "RelativeToolTip": "Factorial\\Factorial.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T17:41:07.456Z",
               "EditorCaption": ""
