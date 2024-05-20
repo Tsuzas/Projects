@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange\Challange\bin\Debug\net8.0\Challange.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange\Challange\bin\Debug\net8.0\Challange.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange\Challange\bin\Debug\net8.0\Challange.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange\Challange\bin\Debug\net8.0\Challange.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange\Challange\bin\Debug\net8.0\Challange.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange\Challange\obj\Debug\net8.0\Challange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange\Challange\obj\Debug\net8.0\Challange.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange\Challange\obj\Debug\net8.0\Challange.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange\Challange\obj\Debug\net8.0\Challange.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange\Challange\obj\Debug\net8.0\Challange.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange\Challange\obj\Debug\net8.0\refint\Challange.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange\Challange\obj\Debug\net8.0\Challange.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange\Challange\obj\Debug\net8.0\Challange.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange\Challange\obj\Debug\net8.0\ref\Challange.dll

@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fortmatting Stuff\Fortmatting Stuff\bin\Debug\net8.0\Fortmatting Stuff.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fortmatting Stuff\Fortmatting Stuff\bin\Debug\net8.0\Fortmatting Stuff.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fortmatting Stuff\Fortmatting Stuff\bin\Debug\net8.0\Fortmatting Stuff.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fortmatting Stuff\Fortmatting Stuff\bin\Debug\net8.0\Fortmatting Stuff.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fortmatting Stuff\Fortmatting Stuff\bin\Debug\net8.0\Fortmatting Stuff.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fortmatting Stuff\Fortmatting Stuff\obj\Debug\net8.0\Fortmatting Stuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fortmatting Stuff\Fortmatting Stuff\obj\Debug\net8.0\Fortmatting Stuff.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fortmatting Stuff\Fortmatting Stuff\obj\Debug\net8.0\Fortmatting Stuff.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fortmatting Stuff\Fortmatting Stuff\obj\Debug\net8.0\Fortmatting Stuff.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fortmatting Stuff\Fortmatting Stuff\obj\Debug\net8.0\Fortmatting Stuff.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fortmatting Stuff\Fortmatting Stuff\obj\Debug\net8.0\refint\Fortmatting Stuff.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fortmatting Stuff\Fortmatting Stuff\obj\Debug\net8.0\Fortmatting Stuff.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fortmatting Stuff\Fortmatting Stuff\obj\Debug\net8.0\Fortmatting Stuff.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Fortmatting Stuff\Fortmatting Stuff\obj\Debug\net8.0\ref\Fortmatting Stuff.dll
