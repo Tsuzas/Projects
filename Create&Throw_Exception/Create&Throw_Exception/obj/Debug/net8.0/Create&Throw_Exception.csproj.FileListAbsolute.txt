@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Create&Throw_Exception\Create&Throw_Exception\bin\Debug\net8.0\Create&Throw_Exception.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Create&Throw_Exception\Create&Throw_Exception\bin\Debug\net8.0\Create&Throw_Exception.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Create&Throw_Exception\Create&Throw_Exception\bin\Debug\net8.0\Create&Throw_Exception.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Create&Throw_Exception\Create&Throw_Exception\bin\Debug\net8.0\Create&Throw_Exception.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Create&Throw_Exception\Create&Throw_Exception\bin\Debug\net8.0\Create&Throw_Exception.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Create&Throw_Exception\Create&Throw_Exception\obj\Debug\net8.0\Create&Throw_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Create&Throw_Exception\Create&Throw_Exception\obj\Debug\net8.0\Create&Throw_Exception.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Create&Throw_Exception\Create&Throw_Exception\obj\Debug\net8.0\Create&Throw_Exception.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Create&Throw_Exception\Create&Throw_Exception\obj\Debug\net8.0\Create&Throw_Exception.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Create&Throw_Exception\Create&Throw_Exception\obj\Debug\net8.0\Create&Throw_Exception.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Create&Throw_Exception\Create&Throw_Exception\obj\Debug\net8.0\refint\Create&Throw_Exception.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Create&Throw_Exception\Create&Throw_Exception\obj\Debug\net8.0\Create&Throw_Exception.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Create&Throw_Exception\Create&Throw_Exception\obj\Debug\net8.0\Create&Throw_Exception.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Create&Throw_Exception\Create&Throw_Exception\obj\Debug\net8.0\ref\Create&Throw_Exception.dll

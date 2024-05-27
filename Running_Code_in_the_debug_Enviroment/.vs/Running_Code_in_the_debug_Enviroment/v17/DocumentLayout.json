@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Running_Code_in_the_debug_Enviroment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E566E0EF-E69A-4578-8033-FC4B9D6258F8}|Running_Code_in_the_debug_Enviroment\\Running_Code_in_the_debug_Enviroment.csproj|c:\\users\\fpere\\onedrive\\ambiente de trabalho\\c#\\running_code_in_the_debug_enviroment\\running_code_in_the_debug_enviroment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E566E0EF-E69A-4578-8033-FC4B9D6258F8}|Running_Code_in_the_debug_Enviroment\\Running_Code_in_the_debug_Enviroment.csproj|solutionrelative:running_code_in_the_debug_enviroment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Running_Code_in_the_debug_Enviroment\\Running_Code_in_the_debug_Enviroment\\Program.cs",
+              "RelativeDocumentMoniker": "Running_Code_in_the_debug_Enviroment\\Program.cs",
+              "ToolTip": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Running_Code_in_the_debug_Enviroment\\Running_Code_in_the_debug_Enviroment\\Program.cs",
+              "RelativeToolTip": "Running_Code_in_the_debug_Enviroment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:14:00.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

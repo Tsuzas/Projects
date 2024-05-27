@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Reusable_Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13FC1FEC-2FC1-4DC5-B10E-70A5E7F03E87}|Reusable_Methods\\Reusable_Methods.csproj|c:\\users\\fpere\\onedrive\\ambiente de trabalho\\c#\\reusable_methods\\reusable_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FC1FEC-2FC1-4DC5-B10E-70A5E7F03E87}|Reusable_Methods\\Reusable_Methods.csproj|solutionrelative:reusable_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Reusable_Methods\\Reusable_Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Reusable_Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Reusable_Methods\\Reusable_Methods\\Program.cs",
+              "RelativeToolTip": "Reusable_Methods\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:40:22.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

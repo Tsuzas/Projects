@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Array_Method\Return_Array_Method\obj\Debug\net8.0\Return_Array_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Array_Method\Return_Array_Method\obj\Debug\net8.0\Return_Array_Method.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Array_Method\Return_Array_Method\obj\Debug\net8.0\Return_Array_Method.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Array_Method\Return_Array_Method\obj\Debug\net8.0\Return_Array_Method.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Array_Method\Return_Array_Method\bin\Debug\net8.0\Return_Array_Method.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Array_Method\Return_Array_Method\bin\Debug\net8.0\Return_Array_Method.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Array_Method\Return_Array_Method\bin\Debug\net8.0\Return_Array_Method.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Array_Method\Return_Array_Method\bin\Debug\net8.0\Return_Array_Method.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Array_Method\Return_Array_Method\bin\Debug\net8.0\Return_Array_Method.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Array_Method\Return_Array_Method\obj\Debug\net8.0\Return_Array_Method.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Array_Method\Return_Array_Method\obj\Debug\net8.0\refint\Return_Array_Method.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Array_Method\Return_Array_Method\obj\Debug\net8.0\Return_Array_Method.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Array_Method\Return_Array_Method\obj\Debug\net8.0\Return_Array_Method.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Array_Method\Return_Array_Method\obj\Debug\net8.0\ref\Return_Array_Method.dll

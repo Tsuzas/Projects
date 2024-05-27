@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Challange_DisplayEmailAdress/1.0.0": {
+        "runtime": {
+          "Challange_DisplayEmailAdress.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Challange_DisplayEmailAdress/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

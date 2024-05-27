@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Test_with_strings\Test_with_strings\bin\Debug\net8.0\Test_with_strings.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Test_with_strings\Test_with_strings\bin\Debug\net8.0\Test_with_strings.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Test_with_strings\Test_with_strings\bin\Debug\net8.0\Test_with_strings.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Test_with_strings\Test_with_strings\bin\Debug\net8.0\Test_with_strings.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Test_with_strings\Test_with_strings\bin\Debug\net8.0\Test_with_strings.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Test_with_strings\Test_with_strings\obj\Debug\net8.0\Test_with_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Test_with_strings\Test_with_strings\obj\Debug\net8.0\Test_with_strings.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Test_with_strings\Test_with_strings\obj\Debug\net8.0\Test_with_strings.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Test_with_strings\Test_with_strings\obj\Debug\net8.0\Test_with_strings.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Test_with_strings\Test_with_strings\obj\Debug\net8.0\Test_with_strings.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Test_with_strings\Test_with_strings\obj\Debug\net8.0\refint\Test_with_strings.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Test_with_strings\Test_with_strings\obj\Debug\net8.0\Test_with_strings.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Test_with_strings\Test_with_strings\obj\Debug\net8.0\Test_with_strings.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Test_with_strings\Test_with_strings\obj\Debug\net8.0\ref\Test_with_strings.dll

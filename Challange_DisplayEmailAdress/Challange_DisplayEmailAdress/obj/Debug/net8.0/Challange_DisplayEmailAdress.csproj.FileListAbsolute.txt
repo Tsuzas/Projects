@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange_DisplayEmailAdress\Challange_DisplayEmailAdress\bin\Debug\net8.0\Challange_DisplayEmailAdress.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange_DisplayEmailAdress\Challange_DisplayEmailAdress\bin\Debug\net8.0\Challange_DisplayEmailAdress.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange_DisplayEmailAdress\Challange_DisplayEmailAdress\bin\Debug\net8.0\Challange_DisplayEmailAdress.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange_DisplayEmailAdress\Challange_DisplayEmailAdress\bin\Debug\net8.0\Challange_DisplayEmailAdress.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange_DisplayEmailAdress\Challange_DisplayEmailAdress\bin\Debug\net8.0\Challange_DisplayEmailAdress.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange_DisplayEmailAdress\Challange_DisplayEmailAdress\obj\Debug\net8.0\Challange_DisplayEmailAdress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange_DisplayEmailAdress\Challange_DisplayEmailAdress\obj\Debug\net8.0\Challange_DisplayEmailAdress.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange_DisplayEmailAdress\Challange_DisplayEmailAdress\obj\Debug\net8.0\Challange_DisplayEmailAdress.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange_DisplayEmailAdress\Challange_DisplayEmailAdress\obj\Debug\net8.0\Challange_DisplayEmailAdress.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange_DisplayEmailAdress\Challange_DisplayEmailAdress\obj\Debug\net8.0\Challange_DisplayEmailAdress.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange_DisplayEmailAdress\Challange_DisplayEmailAdress\obj\Debug\net8.0\refint\Challange_DisplayEmailAdress.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange_DisplayEmailAdress\Challange_DisplayEmailAdress\obj\Debug\net8.0\Challange_DisplayEmailAdress.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange_DisplayEmailAdress\Challange_DisplayEmailAdress\obj\Debug\net8.0\Challange_DisplayEmailAdress.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Challange_DisplayEmailAdress\Challange_DisplayEmailAdress\obj\Debug\net8.0\ref\Challange_DisplayEmailAdress.dll

@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Reusable_Methods\Reusable_Methods\bin\Debug\net8.0\Reusable_Methods.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Reusable_Methods\Reusable_Methods\bin\Debug\net8.0\Reusable_Methods.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Reusable_Methods\Reusable_Methods\bin\Debug\net8.0\Reusable_Methods.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Reusable_Methods\Reusable_Methods\bin\Debug\net8.0\Reusable_Methods.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Reusable_Methods\Reusable_Methods\bin\Debug\net8.0\Reusable_Methods.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Reusable_Methods\Reusable_Methods\obj\Debug\net8.0\Reusable_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Reusable_Methods\Reusable_Methods\obj\Debug\net8.0\Reusable_Methods.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Reusable_Methods\Reusable_Methods\obj\Debug\net8.0\Reusable_Methods.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Reusable_Methods\Reusable_Methods\obj\Debug\net8.0\Reusable_Methods.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Reusable_Methods\Reusable_Methods\obj\Debug\net8.0\Reusable_Methods.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Reusable_Methods\Reusable_Methods\obj\Debug\net8.0\refint\Reusable_Methods.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Reusable_Methods\Reusable_Methods\obj\Debug\net8.0\Reusable_Methods.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Reusable_Methods\Reusable_Methods\obj\Debug\net8.0\Reusable_Methods.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Reusable_Methods\Reusable_Methods\obj\Debug\net8.0\ref\Reusable_Methods.dll

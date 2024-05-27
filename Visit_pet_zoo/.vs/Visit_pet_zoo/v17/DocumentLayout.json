@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Visit_pet_zoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1610D-86C2-4168-91A5-496B6A0ACA2E}|Visit_pet_zoo\\Visit_pet_zoo.csproj|c:\\users\\fpere\\onedrive\\ambiente de trabalho\\c#\\visit_pet_zoo\\visit_pet_zoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC1610D-86C2-4168-91A5-496B6A0ACA2E}|Visit_pet_zoo\\Visit_pet_zoo.csproj|solutionrelative:visit_pet_zoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Visit_pet_zoo\\Visit_pet_zoo\\Program.cs",
+              "RelativeDocumentMoniker": "Visit_pet_zoo\\Program.cs",
+              "ToolTip": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Visit_pet_zoo\\Visit_pet_zoo\\Program.cs",
+              "RelativeToolTip": "Visit_pet_zoo\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwEQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:30:11.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

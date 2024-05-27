@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Visit_pet_zoo\Visit_pet_zoo\bin\Debug\net8.0\Visit_pet_zoo.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Visit_pet_zoo\Visit_pet_zoo\bin\Debug\net8.0\Visit_pet_zoo.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Visit_pet_zoo\Visit_pet_zoo\bin\Debug\net8.0\Visit_pet_zoo.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Visit_pet_zoo\Visit_pet_zoo\bin\Debug\net8.0\Visit_pet_zoo.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Visit_pet_zoo\Visit_pet_zoo\bin\Debug\net8.0\Visit_pet_zoo.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Visit_pet_zoo\Visit_pet_zoo\obj\Debug\net8.0\Visit_pet_zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Visit_pet_zoo\Visit_pet_zoo\obj\Debug\net8.0\Visit_pet_zoo.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Visit_pet_zoo\Visit_pet_zoo\obj\Debug\net8.0\Visit_pet_zoo.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Visit_pet_zoo\Visit_pet_zoo\obj\Debug\net8.0\Visit_pet_zoo.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Visit_pet_zoo\Visit_pet_zoo\obj\Debug\net8.0\Visit_pet_zoo.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Visit_pet_zoo\Visit_pet_zoo\obj\Debug\net8.0\refint\Visit_pet_zoo.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Visit_pet_zoo\Visit_pet_zoo\obj\Debug\net8.0\Visit_pet_zoo.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Visit_pet_zoo\Visit_pet_zoo\obj\Debug\net8.0\Visit_pet_zoo.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Visit_pet_zoo\Visit_pet_zoo\obj\Debug\net8.0\ref\Visit_pet_zoo.dll

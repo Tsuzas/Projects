@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\IPv4-Checker\IPv4-Checker\bin\Debug\net8.0\IPv4-Checker.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\IPv4-Checker\IPv4-Checker\bin\Debug\net8.0\IPv4-Checker.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\IPv4-Checker\IPv4-Checker\bin\Debug\net8.0\IPv4-Checker.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\IPv4-Checker\IPv4-Checker\bin\Debug\net8.0\IPv4-Checker.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\IPv4-Checker\IPv4-Checker\bin\Debug\net8.0\IPv4-Checker.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\IPv4-Checker\IPv4-Checker\obj\Debug\net8.0\IPv4-Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\IPv4-Checker\IPv4-Checker\obj\Debug\net8.0\IPv4-Checker.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\IPv4-Checker\IPv4-Checker\obj\Debug\net8.0\IPv4-Checker.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\IPv4-Checker\IPv4-Checker\obj\Debug\net8.0\IPv4-Checker.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\IPv4-Checker\IPv4-Checker\obj\Debug\net8.0\IPv4-Checker.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\IPv4-Checker\IPv4-Checker\obj\Debug\net8.0\refint\IPv4-Checker.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\IPv4-Checker\IPv4-Checker\obj\Debug\net8.0\IPv4-Checker.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\IPv4-Checker\IPv4-Checker\obj\Debug\net8.0\IPv4-Checker.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\IPv4-Checker\IPv4-Checker\obj\Debug\net8.0\ref\IPv4-Checker.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\FortuneTeller_MethodReusable_CHALLANGE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B47A69-A8E0-4083-98C3-B77365901A53}|FortuneTeller_MethodReusable_CHALLANGE\\FortuneTeller_MethodReusable_CHALLANGE.csproj|c:\\users\\fpere\\onedrive\\ambiente de trabalho\\c#\\fortuneteller_methodreusable_challange\\fortuneteller_methodreusable_challange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B47A69-A8E0-4083-98C3-B77365901A53}|FortuneTeller_MethodReusable_CHALLANGE\\FortuneTeller_MethodReusable_CHALLANGE.csproj|solutionrelative:fortuneteller_methodreusable_challange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\FortuneTeller_MethodReusable_CHALLANGE\\FortuneTeller_MethodReusable_CHALLANGE\\Program.cs",
+              "RelativeDocumentMoniker": "FortuneTeller_MethodReusable_CHALLANGE\\Program.cs",
+              "ToolTip": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\FortuneTeller_MethodReusable_CHALLANGE\\FortuneTeller_MethodReusable_CHALLANGE\\Program.cs",
+              "RelativeToolTip": "FortuneTeller_MethodReusable_CHALLANGE\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:31:36.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

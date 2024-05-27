@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Try_Catch_Exception\Try_Catch_Exception\bin\Debug\net8.0\Try_Catch_Exception.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Try_Catch_Exception\Try_Catch_Exception\bin\Debug\net8.0\Try_Catch_Exception.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Try_Catch_Exception\Try_Catch_Exception\bin\Debug\net8.0\Try_Catch_Exception.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Try_Catch_Exception\Try_Catch_Exception\bin\Debug\net8.0\Try_Catch_Exception.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Try_Catch_Exception\Try_Catch_Exception\bin\Debug\net8.0\Try_Catch_Exception.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Try_Catch_Exception\Try_Catch_Exception\obj\Debug\net8.0\Try_Catch_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Try_Catch_Exception\Try_Catch_Exception\obj\Debug\net8.0\Try_Catch_Exception.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Try_Catch_Exception\Try_Catch_Exception\obj\Debug\net8.0\Try_Catch_Exception.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Try_Catch_Exception\Try_Catch_Exception\obj\Debug\net8.0\Try_Catch_Exception.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Try_Catch_Exception\Try_Catch_Exception\obj\Debug\net8.0\Try_Catch_Exception.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Try_Catch_Exception\Try_Catch_Exception\obj\Debug\net8.0\refint\Try_Catch_Exception.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Try_Catch_Exception\Try_Catch_Exception\obj\Debug\net8.0\Try_Catch_Exception.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Try_Catch_Exception\Try_Catch_Exception\obj\Debug\net8.0\Try_Catch_Exception.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Try_Catch_Exception\Try_Catch_Exception\obj\Debug\net8.0\ref\Try_Catch_Exception.dll

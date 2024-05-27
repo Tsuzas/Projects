@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Type_Syntax\Return_Type_Syntax\bin\Debug\net8.0\Return_Type_Syntax.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Type_Syntax\Return_Type_Syntax\bin\Debug\net8.0\Return_Type_Syntax.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Type_Syntax\Return_Type_Syntax\bin\Debug\net8.0\Return_Type_Syntax.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Type_Syntax\Return_Type_Syntax\bin\Debug\net8.0\Return_Type_Syntax.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Type_Syntax\Return_Type_Syntax\bin\Debug\net8.0\Return_Type_Syntax.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Type_Syntax\Return_Type_Syntax\obj\Debug\net8.0\Return_Type_Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Type_Syntax\Return_Type_Syntax\obj\Debug\net8.0\Return_Type_Syntax.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Type_Syntax\Return_Type_Syntax\obj\Debug\net8.0\Return_Type_Syntax.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Type_Syntax\Return_Type_Syntax\obj\Debug\net8.0\Return_Type_Syntax.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Type_Syntax\Return_Type_Syntax\obj\Debug\net8.0\Return_Type_Syntax.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Type_Syntax\Return_Type_Syntax\obj\Debug\net8.0\refint\Return_Type_Syntax.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Type_Syntax\Return_Type_Syntax\obj\Debug\net8.0\Return_Type_Syntax.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Type_Syntax\Return_Type_Syntax\obj\Debug\net8.0\Return_Type_Syntax.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Type_Syntax\Return_Type_Syntax\obj\Debug\net8.0\ref\Return_Type_Syntax.dll

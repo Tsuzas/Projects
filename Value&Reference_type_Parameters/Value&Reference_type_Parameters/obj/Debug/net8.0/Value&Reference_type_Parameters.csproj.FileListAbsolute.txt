@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Value&Reference_type_Parameters\Value&Reference_type_Parameters\obj\Debug\net8.0\Value&Reference_type_Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Value&Reference_type_Parameters\Value&Reference_type_Parameters\obj\Debug\net8.0\Value&Reference_type_Parameters.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Value&Reference_type_Parameters\Value&Reference_type_Parameters\obj\Debug\net8.0\Value&Reference_type_Parameters.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Value&Reference_type_Parameters\Value&Reference_type_Parameters\obj\Debug\net8.0\Value&Reference_type_Parameters.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Value&Reference_type_Parameters\Value&Reference_type_Parameters\bin\Debug\net8.0\Value&Reference_type_Parameters.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Value&Reference_type_Parameters\Value&Reference_type_Parameters\bin\Debug\net8.0\Value&Reference_type_Parameters.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Value&Reference_type_Parameters\Value&Reference_type_Parameters\bin\Debug\net8.0\Value&Reference_type_Parameters.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Value&Reference_type_Parameters\Value&Reference_type_Parameters\bin\Debug\net8.0\Value&Reference_type_Parameters.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Value&Reference_type_Parameters\Value&Reference_type_Parameters\bin\Debug\net8.0\Value&Reference_type_Parameters.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Value&Reference_type_Parameters\Value&Reference_type_Parameters\obj\Debug\net8.0\Value&Reference_type_Parameters.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Value&Reference_type_Parameters\Value&Reference_type_Parameters\obj\Debug\net8.0\refint\Value&Reference_type_Parameters.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Value&Reference_type_Parameters\Value&Reference_type_Parameters\obj\Debug\net8.0\Value&Reference_type_Parameters.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Value&Reference_type_Parameters\Value&Reference_type_Parameters\obj\Debug\net8.0\Value&Reference_type_Parameters.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Value&Reference_type_Parameters\Value&Reference_type_Parameters\obj\Debug\net8.0\ref\Value&Reference_type_Parameters.dll

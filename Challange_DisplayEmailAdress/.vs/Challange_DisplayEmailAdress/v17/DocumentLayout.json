@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Challange_DisplayEmailAdress\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C960BC8A-6B7F-481E-898E-8565F64D629C}|Challange_DisplayEmailAdress\\Challange_DisplayEmailAdress.csproj|c:\\users\\fpere\\onedrive\\ambiente de trabalho\\c#\\challange_displayemailadress\\challange_displayemailadress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C960BC8A-6B7F-481E-898E-8565F64D629C}|Challange_DisplayEmailAdress\\Challange_DisplayEmailAdress.csproj|solutionrelative:challange_displayemailadress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Challange_DisplayEmailAdress\\Challange_DisplayEmailAdress\\Program.cs",
+              "RelativeDocumentMoniker": "Challange_DisplayEmailAdress\\Program.cs",
+              "ToolTip": "C:\\Users\\fpere\\OneDrive\\Ambiente de Trabalho\\C#\\Challange_DisplayEmailAdress\\Challange_DisplayEmailAdress\\Program.cs",
+              "RelativeToolTip": "Challange_DisplayEmailAdress\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:33:59.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Bool_fromMethods\Return_Bool_fromMethods\obj\Debug\net8.0\Return_Bool_fromMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Bool_fromMethods\Return_Bool_fromMethods\obj\Debug\net8.0\Return_Bool_fromMethods.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Bool_fromMethods\Return_Bool_fromMethods\obj\Debug\net8.0\Return_Bool_fromMethods.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Bool_fromMethods\Return_Bool_fromMethods\obj\Debug\net8.0\Return_Bool_fromMethods.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Bool_fromMethods\Return_Bool_fromMethods\bin\Debug\net8.0\Return_Bool_fromMethods.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Bool_fromMethods\Return_Bool_fromMethods\bin\Debug\net8.0\Return_Bool_fromMethods.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Bool_fromMethods\Return_Bool_fromMethods\bin\Debug\net8.0\Return_Bool_fromMethods.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Bool_fromMethods\Return_Bool_fromMethods\bin\Debug\net8.0\Return_Bool_fromMethods.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Bool_fromMethods\Return_Bool_fromMethods\bin\Debug\net8.0\Return_Bool_fromMethods.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Bool_fromMethods\Return_Bool_fromMethods\obj\Debug\net8.0\Return_Bool_fromMethods.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Bool_fromMethods\Return_Bool_fromMethods\obj\Debug\net8.0\refint\Return_Bool_fromMethods.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Bool_fromMethods\Return_Bool_fromMethods\obj\Debug\net8.0\Return_Bool_fromMethods.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Bool_fromMethods\Return_Bool_fromMethods\obj\Debug\net8.0\Return_Bool_fromMethods.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\Return_Bool_fromMethods\Return_Bool_fromMethods\obj\Debug\net8.0\ref\Return_Bool_fromMethods.dll

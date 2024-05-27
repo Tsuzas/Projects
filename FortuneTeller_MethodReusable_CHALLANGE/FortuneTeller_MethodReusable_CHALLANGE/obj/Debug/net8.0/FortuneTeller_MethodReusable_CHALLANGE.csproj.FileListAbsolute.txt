@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\FortuneTeller_MethodReusable_CHALLANGE\FortuneTeller_MethodReusable_CHALLANGE\bin\Debug\net8.0\FortuneTeller_MethodReusable_CHALLANGE.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\FortuneTeller_MethodReusable_CHALLANGE\FortuneTeller_MethodReusable_CHALLANGE\bin\Debug\net8.0\FortuneTeller_MethodReusable_CHALLANGE.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\FortuneTeller_MethodReusable_CHALLANGE\FortuneTeller_MethodReusable_CHALLANGE\bin\Debug\net8.0\FortuneTeller_MethodReusable_CHALLANGE.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\FortuneTeller_MethodReusable_CHALLANGE\FortuneTeller_MethodReusable_CHALLANGE\bin\Debug\net8.0\FortuneTeller_MethodReusable_CHALLANGE.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\FortuneTeller_MethodReusable_CHALLANGE\FortuneTeller_MethodReusable_CHALLANGE\bin\Debug\net8.0\FortuneTeller_MethodReusable_CHALLANGE.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\FortuneTeller_MethodReusable_CHALLANGE\FortuneTeller_MethodReusable_CHALLANGE\obj\Debug\net8.0\FortuneTeller_MethodReusable_CHALLANGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\FortuneTeller_MethodReusable_CHALLANGE\FortuneTeller_MethodReusable_CHALLANGE\obj\Debug\net8.0\FortuneTeller_MethodReusable_CHALLANGE.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\FortuneTeller_MethodReusable_CHALLANGE\FortuneTeller_MethodReusable_CHALLANGE\obj\Debug\net8.0\FortuneTeller_MethodReusable_CHALLANGE.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\FortuneTeller_MethodReusable_CHALLANGE\FortuneTeller_MethodReusable_CHALLANGE\obj\Debug\net8.0\FortuneTeller_MethodReusable_CHALLANGE.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\FortuneTeller_MethodReusable_CHALLANGE\FortuneTeller_MethodReusable_CHALLANGE\obj\Debug\net8.0\FortuneTeller_MethodReusable_CHALLANGE.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\FortuneTeller_MethodReusable_CHALLANGE\FortuneTeller_MethodReusable_CHALLANGE\obj\Debug\net8.0\refint\FortuneTeller_MethodReusable_CHALLANGE.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\FortuneTeller_MethodReusable_CHALLANGE\FortuneTeller_MethodReusable_CHALLANGE\obj\Debug\net8.0\FortuneTeller_MethodReusable_CHALLANGE.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\FortuneTeller_MethodReusable_CHALLANGE\FortuneTeller_MethodReusable_CHALLANGE\obj\Debug\net8.0\FortuneTeller_MethodReusable_CHALLANGE.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\FortuneTeller_MethodReusable_CHALLANGE\FortuneTeller_MethodReusable_CHALLANGE\obj\Debug\net8.0\ref\FortuneTeller_MethodReusable_CHALLANGE.dll

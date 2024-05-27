@@ -1,0 +1,14 @@
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\ParametersInMethods\ParametersInMethods\bin\Debug\net8.0\ParametersInMethods.exe
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\ParametersInMethods\ParametersInMethods\bin\Debug\net8.0\ParametersInMethods.deps.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\ParametersInMethods\ParametersInMethods\bin\Debug\net8.0\ParametersInMethods.runtimeconfig.json
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\ParametersInMethods\ParametersInMethods\bin\Debug\net8.0\ParametersInMethods.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\ParametersInMethods\ParametersInMethods\bin\Debug\net8.0\ParametersInMethods.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\ParametersInMethods\ParametersInMethods\obj\Debug\net8.0\ParametersInMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\ParametersInMethods\ParametersInMethods\obj\Debug\net8.0\ParametersInMethods.AssemblyInfoInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\ParametersInMethods\ParametersInMethods\obj\Debug\net8.0\ParametersInMethods.AssemblyInfo.cs
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\ParametersInMethods\ParametersInMethods\obj\Debug\net8.0\ParametersInMethods.csproj.CoreCompileInputs.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\ParametersInMethods\ParametersInMethods\obj\Debug\net8.0\ParametersInMethods.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\ParametersInMethods\ParametersInMethods\obj\Debug\net8.0\refint\ParametersInMethods.dll
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\ParametersInMethods\ParametersInMethods\obj\Debug\net8.0\ParametersInMethods.pdb
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\ParametersInMethods\ParametersInMethods\obj\Debug\net8.0\ParametersInMethods.genruntimeconfig.cache
+C:\Users\fpere\OneDrive\Ambiente de Trabalho\C#\ParametersInMethods\ParametersInMethods\obj\Debug\net8.0\ref\ParametersInMethods.dll
