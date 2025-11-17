@@ -1,2 +1,1 @@
-# Projects
-All my C# projects, will probably add other stuff as I learn.
+All my personal Projects so far
